@@ -137,7 +137,7 @@ Disjunct motion uses large intervals (3rds and up)
 
 #### Brass
 
-- trumpet, horn, trombone, sometimes tuba
+- trumpet, french horn, trombone, sometimes tuba
 
 #### Percussion
 

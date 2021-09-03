@@ -1,8 +1,8 @@
-# definitions
+# Definitions
 
 | Term  | Definition |
 | :---: | :--------  |
-| dissodance | sounds bad together |
+| dissonance | sounds bad together |
 | opera | entirely musical play |
 | diatonic scale | 7 white keys |
 | chromatic scale | diatonic + the 5 black keys (all notes) |
@@ -18,3 +18,5 @@
 | barlines | vertical lines that separate musical beat cycles |
 | meter | pattern of strong and weak beats |
 | tempo | Speed of the beats |
+| cadence | a pause that separates phrases |
+| motive | the smallest unit of a piece of music that contains some kind of thematic or structural identity |
